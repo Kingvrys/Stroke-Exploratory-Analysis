@@ -1,0 +1,8 @@
+Dataset Name: Stroke Prediction Dataset
+
+Source URL: 
+[https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data)
+
+Size: 5,110 rows, 12 attributes
+
+Target Variable: stroke (0 = No Stroke, 1 = Stroke)
